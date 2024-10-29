@@ -4,24 +4,13 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '242saurus',               // Or else
-  tagline: 'This is the Way!',      // Or else
+  tagline: 'To be, or not to be.',      // Or else
   favicon: 'img/favicon.ico',       // Or else
-  url: 'https://mansizsultan.github.io', // Or else
-  baseUrl: '/242saurus/',           // Or else
-  organizationName: 'mansizsultan',      // (Usually your GitHub org/user name)
+  url: 'https://mansizsultan.github.io', 	// Or else
+  baseUrl: '/242saurus/',           		// Or else
+  organizationName: 'mansizsultan',      	// (Usually your GitHub org/user name)
   projectName: '242saurus',         // (Usually your repo name)
   trailingSlash: true,              // "true" or "false"
-
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
