@@ -27,9 +27,15 @@ mansiz:
   title: Minister of Communication and Digital Affairs 2045
   url: https://github.com/mansizsultan
   image_url: https://github.com/mansizsultan.png
+  page: true
+  socials:
+    github: mansizsultan
 
 daptek:
-  name: daptek 
+  name: Erdafa Andikri 
   title: Ordinary guy
   url: https://github.com/dafandikri
   image_url: https://github.com/dafandikri.png
+  page: true
+  socials:
+    github: dafandikri
